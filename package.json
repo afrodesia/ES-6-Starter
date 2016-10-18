@@ -1,7 +1,7 @@
 {
-  "name": "ES6 Starter Template",
-  "version": "0.1.0",
-  "description": "A minimal webpack/ES6 project template",
+  "name": "webpack-js",
+  "version": "1.0.0",
+  "description": "ES6 Webpack",
   "main": "src/main.js",
   "dependencies": {
     "babel-polyfill": "^6.0.16"
@@ -21,19 +21,25 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/afrodesia/ES-6-Starter"
   },
   "scripts": {
     "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrodesia/ES-6-Starter.git"
+  },
   "keywords": [
-    "webpack",
-    "webpack-dev-server",
-    "template",
-    "starter",
+    "npm",
     "es6",
-    "babel"
+    "js",
+    "javascript"
   ],
   "author": "Ken Torry",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afrodesia/ES-6-Starter/issues"
+  },
+  "homepage": "https://github.com/afrodesia/ES-6-Starter#readme"
 }
